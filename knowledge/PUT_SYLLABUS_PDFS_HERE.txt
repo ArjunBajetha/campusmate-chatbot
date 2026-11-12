@@ -1,0 +1,1 @@
+Copy official syllabus PDFs into this folder. Do not put API keys here.
